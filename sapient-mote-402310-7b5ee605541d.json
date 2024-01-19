@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-mote-402310",
+  "private_key_id": "7b5ee605541d013ea9155ae71115d7d56e54f390",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCdLR9IaOuS0oC\n5j7Bt4mryEgluEBvoIixsk2FQryR423ezd1TyoJ5WiVOK7MOT7pjJwYiWlHgfGLQ\nsyU+zQp9j1YcIguGelYIusUMRZJZ//EdHAxQs0UKVpK9etyzDvuShGYpvckKIHXi\n93IYoRTgF9uVQZywG98QIJjTT7systmnGc6rvtlmp67E+nOWF+2dBh6ETPVBHdFM\nepBdcVH5ImthJXHvU2H5uXxy9N6LaYYuxHvY4yh4wgYJGyAryqvNBFTm4ZX8b0wp\nbty7WRjuo7fAKOwQoXYoLC9NIwZyY0iY8C0+Ug/R363181ABMKHOI7tAMSx+RuUH\nZ8cOTz+PAgMBAAECggEABiip6MauepNu4ips6J5jPi1NphT9kXhTrARTzGzOY46A\n/D9Bi2kmeo9E3DXdHQ7Tl/CN+XuQphwHPMkkj/Mj9tGASDIGpgYGgI56nDnKrPTc\nXzz0SBmnDgp4HLrUXHJIIur0Zpqlg4XleSbq/OW1/A0CMVC1Lj/yIv6G6JzY9uRa\n7JnNnIBUkHIVKSOvE36qEiAZyrSOmVPwhIe9MQ/mwFQVYdb8vh+2ZZwBhEfHn7zn\nD/blquIJ4bz8wtMiZCu6Ppi2Joc0Tlueh2xXtve4WK8AuA4HEI2BuNMsdqs/cI2T\n8EjIv/CSjeXpB1vZmnBiRkzWXXVMVRumGopTIX6ghQKBgQDkoXL4jLLi7j5RiAMo\nuWe+BaznggrVrV1qxnBqs3aHZ99H1v7S63mqhG2Aeo71yTmNPTOtdaLvG7DEtGru\nzJ45dMhz2jPvzepq7N0s8AKuKwA1/1W7wBEg50RxM/RFmXqiab1IzCdeur6J4fc5\nmp4tKAcODpUjH25AvZ6TMXeIQwKBgQDZu/H3/Nd28rnyz/WzFIP87X/T9dIGxuem\nwjGlyxhaLwlU9LN35I3qDv4fIkgysZ7igFPKO97IrZUPYUGftC8Yre4pcMFgxnLQ\nNijJypfhP6rhvD5cmwj94Z6bsiMvCCra0JNlNr4iwbOrEZHtl2zpaL2XiYmQCSt+\noubt22rMxQKBgFwiG5zBxkzgyUg90VgV7xKKYvUgWJFnPaALu72j+H30g+wFXcdN\nkUf/+ciumvG9V23tXefm4fQNapy6P+Vfm9t3jlfxdMCMcI0KSs8TIWFifsFD1h7E\n9aIW0GP2Fdf+U4cjqV2ut6bbBnG2F9Sk1F1KJh2qDruKrPl18HNMmejVAoGBAILO\nUpO1JoyjTer93JH1ZUXyOLVSHRdNL6YTTFhaJwsm7uhHCfqhKFDRKQHzSoSKCPXy\nOmRoi3LsNXzD5PTY/uJIu6fRwZsuHZPQtbhlKdF8umBbAuwHh+NeRDctUc3Tjkte\nuu43cQrYa+P97jlam2euMRh03FvX5nVx0GJdS1AxAoGADUo+TKGMVaEcOg/xDyI1\nqVjfzawZ+oXh/exsRC7j87HShtIZfXtkqNe+81ZoPnHdkNBT8t/3MBBw0F6Zhaao\nK543Bacycj94eaA7nf3vkOwLHOUZLJWVHpV1Ylt2kwsuWp+cImxLcLgR8b/ITiFb\nsQHzN29MsAC2u/NHWt/2i54=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myflix@sapient-mote-402310.iam.gserviceaccount.com",
+  "client_id": "107686644314517171152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myflix%40sapient-mote-402310.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

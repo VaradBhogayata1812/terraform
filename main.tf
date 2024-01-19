@@ -8,10 +8,10 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("/home/varadbhogayata78/sapient-mote-402310-7b5ee605541d.json")
-  project     = "sapient-mote-402310"
-  region      = "us-central1"
-  zone        = "us-central1-c"
+  credentials = file(var.gcp_credentials_file)
+  project     = var.project
+  region      = var.region
+  zone        = var.zone
 }
 
 data "google_compute_address" "flaskapp_ip" {
